@@ -1,0 +1,55 @@
+{
+  "collision-matrix": [
+    [
+      true
+    ]
+  ],
+  "design-resolution-height": 640,
+  "design-resolution-width": 960,
+  "excluded-modules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "ProgressBar",
+    "ScrollBar",
+    "ScrollView",
+    "Toggle",
+    "ToggleGroup",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "AudioSource",
+    "Animation",
+    "MotionStreak",
+    "Collider",
+    "Action",
+    "Audio",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Camera",
+    "Intersection"
+  ],
+  "fit-height": true,
+  "fit-width": false,
+  "group-list": [
+    "default"
+  ],
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "start-scene": "current",
+  "use-customize-simulator": false,
+  "use-project-simulator-setting": false
+}
